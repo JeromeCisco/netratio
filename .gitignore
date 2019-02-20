@@ -1,4 +1,5 @@
 .pyc
 __pycache__
 dnac_config.py
+.gitignore
 .DS_Store
